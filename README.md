@@ -23,4 +23,4 @@ During this project, I strengthened my skills in:
 * **TypeScript:** Handling strict typing for products and cart items across different files.
 
 ---
-*Coded by Tiago - Building my path to NYC 🗽*
+*Coded by Tiago - Building my path to NYC 🗽*  
