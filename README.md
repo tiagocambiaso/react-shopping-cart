@@ -16,10 +16,11 @@ A modern, responsive shopping cart application simulating an Apple Store experie
 
 ## 🛠️ What I Learned
 During this project, I strengthened my skills in:
-* Managing complex state arrays in React (`useState`, `map`, `filter`).
-* Implementing `useEffect` for syncing state with browser storage.
-* Refactoring and componentizing UI elements for better readability.
-* Handling type safety and naming collisions in TypeScript.
+* **Custom Hooks:** Refactored the entire cart logic into a standalone `useCart` hook to improve code reusability and maintainability.
+* **Separation of Concerns:** Cleaned up the main components by decoupling business logic from the UI.
+* **State Management:** Managing complex state arrays in React (`useState`, `map`, `filter`).
+* **Data Persistence:** Implementing `useEffect` to sync the cart state with `LocalStorage`.
+* **TypeScript:** Handling strict typing for products and cart items across different files.
 
 ---
 *Coded by Tiago - Building my path to NYC 🗽*
